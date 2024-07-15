@@ -6,7 +6,8 @@
 ## ML Model
 ### ST-GCN
 
-![gra](https://github.com/125bn3cowpFDC/tdi/assets/170291905/4f6cfe8f-c21e-4f5d-a9bd-990594d23a20)
+![image](https://github.com/user-attachments/assets/ff611052-3092-4986-aad3-623aaa04f3a1)
+
 
 
 
