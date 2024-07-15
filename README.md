@@ -75,6 +75,7 @@ if ((count>=100) and ((count % 10)==0)):
 + 이후 10프레임 씩 영상이 진행되며 데이터 생성
 ---
 ### Model pipeline
-![st](https://github.com/125bn3cowpFDC/tdi/assets/170291905/995c1336-68e3-4827-b9c1-06879d5cdc63)
+![image](https://github.com/user-attachments/assets/d04b9360-122a-42e4-bedd-080301827c9b)
+
 
 - spatial과 tempral module을 통해 featuremap을 형성한 후 FClayer를 거쳐 추정한다.
